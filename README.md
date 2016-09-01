@@ -6,6 +6,15 @@ You're able to select which post types should slide:
   - posts
   - products
   - custom post types
+ 
+Various settings like:
+  - autoplay
+  - Slide or fade
+  - enable/disable pagination
+  - Autoplay speed
+  - Slide to show at once
+  - Slides to scroll at once
+
 
 # shortcode options
 - disable title attribute: [woo_carousel_slider title="false"]
